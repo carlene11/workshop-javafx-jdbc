@@ -30,3 +30,6 @@ build/
 nbbuild/
 dlist/
 nblist/
+
+#Eclipse
+.settings/
